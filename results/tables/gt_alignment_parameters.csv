@@ -1,0 +1,4 @@
+Terrain,Reference_scanner,GT_anchor_1,Scanner_anchor_1,GT_anchor_2,Scanner_anchor_2,Reflect_X,Reflect_Y,Scaling_applied,Rotation_deg,GT_anchor_distance_m,Scanner_anchor_distance_m,Anchor_distance_difference_m,First_anchor_error_m,Second_anchor_error_m
+Easy,Single sensor,20,8,21,9,True,True,False,19.269103190590936,3.4245036136643217,3.4866046266419812,0.062101012977659575,0.0,0.06210101297765831
+Intermediate,Single sensor,1,9,2,3,False,False,False,-17.602299691645502,5.249192033065659,5.564707233861158,0.3155152007954989,0.0,0.31551520079549905
+Challenging,Single sensor,29,23,30,24,True,True,False,30.854696145064192,2.3562987925982553,2.480943105057492,0.12464431245923668,0.0,0.12464431245923703

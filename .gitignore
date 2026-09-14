@@ -1,0 +1,37 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local environment files
+.env
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary/editor files
+*.tmp
+*.swp
+*~
+
+# Point-cloud and CloudCompare files
+*.ply
+*.las
+*.laz
+*.e57
+*.pcd
+*.bin
+
+# Original research data not distributed with the public repository
+data/raw/
+
+# Earlier archived analysis files
+data/archieve/

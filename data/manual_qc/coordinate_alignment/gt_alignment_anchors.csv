@@ -1,0 +1,4 @@
+Terrain,Reference_scanner,GT_anchor_1,Scanner_anchor_1,GT_anchor_2,Scanner_anchor_2,Reflect_X,Reflect_Y,Scaling_applied
+Easy,Single sensor,20,8,21,9,True,True,False
+Intermediate,Single sensor,1,9,2,3,False,False,False
+Challenging,Single sensor,29,23,30,24,True,True,False

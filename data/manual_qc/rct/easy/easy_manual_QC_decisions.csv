@@ -1,0 +1,11 @@
+﻿dataset,segment_id,GT_ID_final,QC_class,include_in_GT_detection,include_in_attribute_accuracy,QC_notes
+et_j_nogrid,7,33,validated_primary_match,Yes,Yes,Clear corresponding tree in CloudCompare despite base offset just over 1 m
+et_dvojskener_nogrid,7,33,validated_primary_match,Yes,Yes,Clear corresponding tree in CloudCompare despite base offset just over 1 m
+et_hovermap_nogrid,8,33,validated_primary_match,Yes,Yes,Clear corresponding tree in CloudCompare despite base offset just over 1 m
+et_j_nogrid,5,,genuine_unrecorded_tree,No,No,Genuine small tree visible in the point cloud but absent from the GT inventory
+et_dvojskener_nogrid,5,,genuine_unrecorded_tree,No,No,Genuine small tree visible in the point cloud but absent from the GT inventory
+et_hovermap_nogrid,6,,genuine_unrecorded_tree,No,No,Genuine small tree visible in the point cloud but absent from the GT inventory
+et_j_nogrid,0,21,validated_primary_match,Yes,Yes,Primary segment corresponding to GT 21
+et_dvojskener_nogrid,0,21,validated_primary_match,Yes,Yes,Primary segment corresponding to GT 21
+et_hovermap_nogrid,1,21,validated_primary_match,Yes,Yes,Primary Hovermap segment corresponding to GT 21
+et_hovermap_nogrid,0,21,split_fragment,No,No,Small fragment belonging to Hovermap segment 1 and GT 21; not a separate physical tree

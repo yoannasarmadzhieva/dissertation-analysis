@@ -1,0 +1,4 @@
+dataset,scanner,recorded_GT_trees,recorded_GT_trees_detected,GT_recall_percent,total_RCT_candidates,additional_genuine_unrecorded_trees,additional_genuine_edge_truncated_trees,split_fragments,unresolved_candidates,unique_physical_trees_detected_after_QC
+it_jednoskener_nogrid,Jednoskenner,22,22,100.0,24,1,1,0,0,24
+it_dvojskener_nogrid,Dvojskenner,22,22,100.0,24,1,1,0,0,24
+it_hovermap_nogrid,Hovermap,22,22,100.0,24,1,1,0,0,24

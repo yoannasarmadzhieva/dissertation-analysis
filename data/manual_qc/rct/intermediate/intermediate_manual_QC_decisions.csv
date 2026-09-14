@@ -1,0 +1,7 @@
+﻿dataset,segment_id,GT_ID_final,QC_class,include_in_GT_detection,include_in_attribute_accuracy,QC_notes
+it_jednoskener_nogrid,10,,genuine_unrecorded_tree,No,No,"Distinct small tree with its own stem; absent from the GT inventory. The nearest recorded GT belongs to a different physical tree."
+it_dvojskener_nogrid,11,,genuine_unrecorded_tree,No,No,"Same distinct small tree detected by Dvojskenner; absent from the GT inventory. The nearest recorded GT belongs to a different physical tree."
+it_hovermap_nogrid,10,,genuine_unrecorded_tree,No,No,"Same distinct small tree detected by Hovermap; absent from the GT inventory. The nearest recorded GT belongs to a different physical tree."
+it_jednoskener_nogrid,21,,genuine_edge_truncated_tree,No,No,"Distinct tree standing at the terrain edge and only partly scanned; absent from the GT inventory. The nearest recorded GT belongs to a different physical tree."
+it_dvojskener_nogrid,21,,genuine_edge_truncated_tree,No,No,"Same edge-truncated tree detected by Dvojskenner; absent from the GT inventory. The nearest recorded GT belongs to a different physical tree."
+it_hovermap_nogrid,21,,genuine_edge_truncated_tree,No,No,"Same edge-truncated tree detected by Hovermap; absent from the GT inventory. The nearest recorded GT belongs to a different physical tree."

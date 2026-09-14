@@ -1,0 +1,232 @@
+Terrain,Scanner,source_dataset,segment_id,GT_ID_final,represented_GT_IDs,source_QC_status,QC_class,GT_detection_credit,include_in_attribute_accuracy,is_genuine_unrecorded_tree,is_genuine_edge_truncated_tree,is_undersegmented,is_invalid_candidate,QC_notes
+Easy,Single sensor,et_j_nogrid,0,21;0,21;0,validated_primary_match,validated_primary_match,1,True,False,False,False,False,Primary segment corresponding to GT 21
+Easy,Single sensor,et_j_nogrid,1,13;0,13;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Easy,Single sensor,et_j_nogrid,2,20;0,20;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Easy,Single sensor,et_j_nogrid,3,17;0,17;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Easy,Single sensor,et_j_nogrid,4,27;0,27;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Easy,Single sensor,et_j_nogrid,5,,,genuine_unrecorded_tree,genuine_unrecorded_tree,0,False,True,False,False,False,Genuine small tree visible in the point cloud but absent from the GT inventory
+Easy,Single sensor,et_j_nogrid,6,6;0,6;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Easy,Single sensor,et_j_nogrid,7,33;0,33;0,validated_primary_match,validated_primary_match,1,True,False,False,False,False,Clear corresponding tree in CloudCompare despite base offset just over 1 m
+Easy,Single sensor,et_j_nogrid,8,34;0,34;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Easy,Single sensor,et_j_nogrid,9,31;0,31;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Easy,Dual sensor,et_dvojskener_nogrid,0,21;0,21;0,validated_primary_match,validated_primary_match,1,True,False,False,False,False,Primary segment corresponding to GT 21
+Easy,Dual sensor,et_dvojskener_nogrid,1,13;0,13;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Easy,Dual sensor,et_dvojskener_nogrid,2,20;0,20;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Easy,Dual sensor,et_dvojskener_nogrid,3,17;0,17;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Easy,Dual sensor,et_dvojskener_nogrid,4,27;0,27;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Easy,Dual sensor,et_dvojskener_nogrid,5,,,genuine_unrecorded_tree,genuine_unrecorded_tree,0,False,True,False,False,False,Genuine small tree visible in the point cloud but absent from the GT inventory
+Easy,Dual sensor,et_dvojskener_nogrid,6,6;0,6;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Easy,Dual sensor,et_dvojskener_nogrid,7,33;0,33;0,validated_primary_match,validated_primary_match,1,True,False,False,False,False,Clear corresponding tree in CloudCompare despite base offset just over 1 m
+Easy,Dual sensor,et_dvojskener_nogrid,8,34;0,34;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Easy,Dual sensor,et_dvojskener_nogrid,9,31;0,31;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Easy,Hovermap,et_hovermap_nogrid,0,,21;0,split_fragment,split_fragment,0,False,False,False,False,True,Small fragment belonging to Hovermap segment 1 and GT 21; not a separate physical tree
+Easy,Hovermap,et_hovermap_nogrid,1,21;0,21;0,validated_primary_match,validated_primary_match,1,True,False,False,False,False,Primary Hovermap segment corresponding to GT 21
+Easy,Hovermap,et_hovermap_nogrid,2,13;0,13;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Easy,Hovermap,et_hovermap_nogrid,3,20;0,20;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Easy,Hovermap,et_hovermap_nogrid,4,17;0,17;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Easy,Hovermap,et_hovermap_nogrid,5,27;0,27;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Easy,Hovermap,et_hovermap_nogrid,6,,,genuine_unrecorded_tree,genuine_unrecorded_tree,0,False,True,False,False,False,Genuine small tree visible in the point cloud but absent from the GT inventory
+Easy,Hovermap,et_hovermap_nogrid,7,6;0,6;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Easy,Hovermap,et_hovermap_nogrid,8,33;0,33;0,validated_primary_match,validated_primary_match,1,True,False,False,False,False,Clear corresponding tree in CloudCompare despite base offset just over 1 m
+Easy,Hovermap,et_hovermap_nogrid,9,34;0,34;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Easy,Hovermap,et_hovermap_nogrid,10,31;0,31;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Single sensor,it_jednoskener_nogrid,0,25;0,25;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Single sensor,it_jednoskener_nogrid,1,20;0,20;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Single sensor,it_jednoskener_nogrid,2,26;0,26;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Single sensor,it_jednoskener_nogrid,3,19;0,19;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Single sensor,it_jednoskener_nogrid,4,23;0,23;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Single sensor,it_jednoskener_nogrid,5,16;0,16;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Single sensor,it_jednoskener_nogrid,6,22;0,22;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Single sensor,it_jednoskener_nogrid,7,29;0,29;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Single sensor,it_jednoskener_nogrid,8,17;0,17;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Single sensor,it_jednoskener_nogrid,9,28;0,28;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Single sensor,it_jednoskener_nogrid,10,,,genuine_unrecorded_tree,genuine_unrecorded_tree,0,False,True,False,False,False,Distinct small tree with its own stem; absent from the GT inventory. The nearest recorded GT belongs to a different physical tree.
+Intermediate,Single sensor,it_jednoskener_nogrid,11,15;0,15;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Single sensor,it_jednoskener_nogrid,12,34;0,34;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Single sensor,it_jednoskener_nogrid,13,14;0,14;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Single sensor,it_jednoskener_nogrid,14,1;0,1;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Single sensor,it_jednoskener_nogrid,15,27;0,27;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Single sensor,it_jednoskener_nogrid,16,9;0,9;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Single sensor,it_jednoskener_nogrid,17,8;0,8;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Single sensor,it_jednoskener_nogrid,18,2;0,2;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Single sensor,it_jednoskener_nogrid,19,11;0,11;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Single sensor,it_jednoskener_nogrid,20,4;0,4;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Single sensor,it_jednoskener_nogrid,21,,,genuine_edge_truncated_tree,genuine_edge_truncated_tree,0,False,False,True,False,False,Distinct tree standing at the terrain edge and only partly scanned; absent from the GT inventory. The nearest recorded GT belongs to a different physical tree.
+Intermediate,Single sensor,it_jednoskener_nogrid,22,5;0,5;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Single sensor,it_jednoskener_nogrid,23,30;0,30;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Dual sensor,it_dvojskener_nogrid,0,25;0,25;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Dual sensor,it_dvojskener_nogrid,1,20;0,20;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Dual sensor,it_dvojskener_nogrid,2,26;0,26;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Dual sensor,it_dvojskener_nogrid,3,19;0,19;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Dual sensor,it_dvojskener_nogrid,4,23;0,23;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Dual sensor,it_dvojskener_nogrid,5,29;0,29;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Dual sensor,it_dvojskener_nogrid,6,16;0,16;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Dual sensor,it_dvojskener_nogrid,7,22;0,22;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Dual sensor,it_dvojskener_nogrid,8,30;0,30;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Dual sensor,it_dvojskener_nogrid,9,17;0,17;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Dual sensor,it_dvojskener_nogrid,10,28;0,28;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Dual sensor,it_dvojskener_nogrid,11,,,genuine_unrecorded_tree,genuine_unrecorded_tree,0,False,True,False,False,False,Same distinct small tree detected by Dvojskenner; absent from the GT inventory. The nearest recorded GT belongs to a different physical tree.
+Intermediate,Dual sensor,it_dvojskener_nogrid,12,15;0,15;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Dual sensor,it_dvojskener_nogrid,13,34;0,34;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Dual sensor,it_dvojskener_nogrid,14,1;0,1;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Dual sensor,it_dvojskener_nogrid,15,27;0,27;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Dual sensor,it_dvojskener_nogrid,16,14;0,14;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Dual sensor,it_dvojskener_nogrid,17,9;0,9;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Dual sensor,it_dvojskener_nogrid,18,8;0,8;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Dual sensor,it_dvojskener_nogrid,19,2;0,2;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Dual sensor,it_dvojskener_nogrid,20,11;0,11;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Dual sensor,it_dvojskener_nogrid,21,,,genuine_edge_truncated_tree,genuine_edge_truncated_tree,0,False,False,True,False,False,Same edge-truncated tree detected by Dvojskenner; absent from the GT inventory. The nearest recorded GT belongs to a different physical tree.
+Intermediate,Dual sensor,it_dvojskener_nogrid,22,4;0,4;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Dual sensor,it_dvojskener_nogrid,23,5;0,5;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Hovermap,it_hovermap_nogrid,0,25;0,25;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Hovermap,it_hovermap_nogrid,1,20;0,20;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Hovermap,it_hovermap_nogrid,2,26;0,26;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Hovermap,it_hovermap_nogrid,3,19;0,19;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Hovermap,it_hovermap_nogrid,4,23;0,23;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Hovermap,it_hovermap_nogrid,5,16;0,16;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Hovermap,it_hovermap_nogrid,6,22;0,22;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Hovermap,it_hovermap_nogrid,7,29;0,29;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Hovermap,it_hovermap_nogrid,8,17;0,17;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Hovermap,it_hovermap_nogrid,9,28;0,28;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Hovermap,it_hovermap_nogrid,10,,,genuine_unrecorded_tree,genuine_unrecorded_tree,0,False,True,False,False,False,Same distinct small tree detected by Hovermap; absent from the GT inventory. The nearest recorded GT belongs to a different physical tree.
+Intermediate,Hovermap,it_hovermap_nogrid,11,15;0,15;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Hovermap,it_hovermap_nogrid,12,34;0,34;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Hovermap,it_hovermap_nogrid,13,1;0,1;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Hovermap,it_hovermap_nogrid,14,27;0,27;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Hovermap,it_hovermap_nogrid,15,14;0,14;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Hovermap,it_hovermap_nogrid,16,9;0,9;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Hovermap,it_hovermap_nogrid,17,8;0,8;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Hovermap,it_hovermap_nogrid,18,11;0,11;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Hovermap,it_hovermap_nogrid,19,4;0,4;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Hovermap,it_hovermap_nogrid,20,2;0,2;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Hovermap,it_hovermap_nogrid,21,,,genuine_edge_truncated_tree,genuine_edge_truncated_tree,0,False,False,True,False,False,Same edge-truncated tree detected by Hovermap; absent from the GT inventory. The nearest recorded GT belongs to a different physical tree.
+Intermediate,Hovermap,it_hovermap_nogrid,22,5;0,5;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Intermediate,Hovermap,it_hovermap_nogrid,23,30;0,30;0,assigned_to_GT,validated_primary_match,1,True,False,False,False,False,
+Challenging,Single sensor,cht_jednoskener_nogrid,0,8;0,8,validated_primary_match,validated_primary_match,1,True,False,False,False,False,Validated one-to-one correspondence with GT8; included in detection and TH/DBH accuracy.
+Challenging,Single sensor,cht_jednoskener_nogrid,1,9;0,9,validated_primary_match,validated_primary_match,1,True,False,False,False,False,Validated one-to-one correspondence with GT9; included in detection and TH/DBH accuracy.
+Challenging,Single sensor,cht_jednoskener_nogrid,2,,33;34,split_fragment,invalid_fragment,0,False,False,False,False,True,Detached secondary fragment from the GT33/GT34 merged-tree region; excluded from detection and attribute accuracy.
+Challenging,Single sensor,cht_jednoskener_nogrid,3,,33;34,merged_GT_trees,undersegmented_GT_trees,0,False,False,False,True,False,One RCT segment merges the two separate physical trees GT33 and GT34. Counts as one individual-tree detection for the pair and is excluded from TH/DBH accuracy.
+Challenging,Single sensor,cht_jednoskener_nogrid,4,,,rejected_non_tree_segment,invalid_non_tree_segment,0,False,False,False,False,True,Standalone RCT candidate listed as a non-matching/ignore segment and not associated with a coherent physical tree during QC.
+Challenging,Single sensor,cht_jednoskener_nogrid,5,,,genuine_unrecorded_tree,genuine_unrecorded_tree,0,False,True,False,False,False,Small standing tree absent from GT. Retained as a genuine additional tree but excluded from GT-based accuracy.
+Challenging,Single sensor,cht_jednoskener_nogrid,6,13;0,13,validated_primary_match,validated_primary_match,1,True,False,False,False,False,Validated one-to-one correspondence with GT13; included in detection and TH/DBH accuracy.
+Challenging,Single sensor,cht_jednoskener_nogrid,7,,7;32,merged_GT_trees,undersegmented_GT_trees,0,False,False,False,True,False,One RCT segment merges the two separate physical trees GT7 and GT32. Counts as one individual-tree detection for the pair and is excluded from TH/DBH accuracy.
+Challenging,Single sensor,cht_jednoskener_nogrid,8,,,rejected_non_tree_segment,invalid_non_tree_segment,0,False,False,False,False,True,Standalone RCT candidate listed as a non-matching/ignore segment and not associated with a coherent physical tree during QC.
+Challenging,Single sensor,cht_jednoskener_nogrid,9,,,rejected_non_tree_segment,invalid_non_tree_segment,0,False,False,False,False,True,Did not correspond to a recognisable physical tree or coherent stem in the raw point cloud; rejected during visual QC.
+Challenging,Single sensor,cht_jednoskener_nogrid,10,14;0,14,validated_primary_match,validated_primary_match,1,True,False,False,False,False,Validated one-to-one correspondence with GT14; included in detection and TH/DBH accuracy. Cleaned J10 could not be reconstructed by rayextract; original TH/DBH retained as a documented reprocessing exception.
+Challenging,Single sensor,cht_jednoskener_nogrid,11,6;0,6,validated_primary_match,validated_primary_match,1,True,False,False,False,False,Validated one-to-one correspondence with GT6; included in detection and TH/DBH accuracy.
+Challenging,Single sensor,cht_jednoskener_nogrid,12,,,genuine_unrecorded_fallen_tree,genuine_unrecorded_fallen_tree,0,False,True,False,False,False,Genuine fallen/strongly leaning tree absent from GT; excluded from standing-tree detection and TH/DBH accuracy.
+Challenging,Single sensor,cht_jednoskener_nogrid,13,,,genuine_unrecorded_tree,genuine_unrecorded_tree,0,False,True,False,False,False,Small standing tree absent from GT. Retained as a genuine additional tree but excluded from GT-based accuracy.
+Challenging,Single sensor,cht_jednoskener_nogrid,14,,35;36,merged_GT_trees,undersegmented_GT_trees,0,False,False,False,True,False,One RCT segment merges the two separate physical trees GT35 and GT36. Counts as one individual-tree detection for the pair and is excluded from TH/DBH accuracy.
+Challenging,Single sensor,cht_jednoskener_nogrid,15,,,genuine_unrecorded_tree,genuine_unrecorded_tree,0,False,True,False,False,False,Small standing tree absent from GT. Retained as a genuine additional tree but excluded from GT-based accuracy.
+Challenging,Single sensor,cht_jednoskener_nogrid,16,,,genuine_unrecorded_tree,genuine_unrecorded_tree,0,False,True,False,False,False,Small standing tree absent from GT; represented adequately and excluded from GT-based accuracy.
+Challenging,Single sensor,cht_jednoskener_nogrid,17,16;0,16,validated_primary_match,validated_primary_match,1,True,False,False,False,False,Validated one-to-one correspondence with GT16; included in detection and TH/DBH accuracy.
+Challenging,Single sensor,cht_jednoskener_nogrid,18,18;0,18,validated_primary_match,validated_primary_match,1,True,False,False,False,False,Validated one-to-one correspondence with GT18; included in detection and TH/DBH accuracy.
+Challenging,Single sensor,cht_jednoskener_nogrid,19,2;0,2,validated_primary_match,validated_primary_match,1,True,False,False,False,False,Validated one-to-one correspondence with GT2; included in detection and TH/DBH accuracy.
+Challenging,Single sensor,cht_jednoskener_nogrid,20,3;0,3,validated_primary_match,validated_primary_match,1,True,False,False,False,False,Validated one-to-one correspondence with GT3; included in detection and TH/DBH accuracy.
+Challenging,Single sensor,cht_jednoskener_nogrid,21,,,genuine_unrecorded_tree,genuine_unrecorded_tree,0,False,True,False,False,False,Small standing tree absent from GT. Retained as a genuine additional tree but excluded from GT-based accuracy.
+Challenging,Single sensor,cht_jednoskener_nogrid,22,,,rejected_non_tree_segment,invalid_non_tree_segment,0,False,False,False,False,True,Did not correspond to a recognisable physical tree or coherent stem in the raw point cloud; rejected during visual QC.
+Challenging,Single sensor,cht_jednoskener_nogrid,23,,23;24,merged_GT_trees,undersegmented_GT_trees,0,False,False,False,True,False,One RCT segment merges the two separate physical trees GT23 and GT24. Counts as one individual-tree detection for the pair and is excluded from TH/DBH accuracy.
+Challenging,Single sensor,cht_jednoskener_nogrid,24,19;0,19,validated_primary_match,validated_primary_match,1,True,False,False,False,False,Validated one-to-one correspondence with GT19; included in detection and TH/DBH accuracy.
+Challenging,Single sensor,cht_jednoskener_nogrid,25,37;0,37,validated_primary_match,validated_primary_match,1,True,False,False,False,False,Validated one-to-one correspondence with GT37; included in detection and TH/DBH accuracy.
+Challenging,Single sensor,cht_jednoskener_nogrid,26,1;0,1,validated_primary_match,validated_primary_match,1,True,False,False,False,False,Validated one-to-one correspondence with GT1; included in detection and TH/DBH accuracy.
+Challenging,Single sensor,cht_jednoskener_nogrid,27,28;0,28,validated_primary_match,validated_primary_match,1,True,False,False,False,False,Validated one-to-one correspondence with GT28; included in detection and TH/DBH accuracy.
+Challenging,Single sensor,cht_jednoskener_nogrid,28,25;0,25,validated_primary_match,validated_primary_match,1,True,False,False,False,False,Validated one-to-one correspondence with GT25; included in detection and TH/DBH accuracy.
+Challenging,Single sensor,cht_jednoskener_nogrid,29,20;0,20,validated_primary_match_after_manual_split,validated_primary_match,1,True,False,False,False,False,Original J29 contained GT20 plus an unrecorded neighbouring tree. The two trees were manually separated in CloudCompare; the cleaned GT20 component was reprocessed successfully as one tree.
+Challenging,Single sensor,cht_jednoskener_nogrid,30,29;0,29,validated_primary_match,validated_primary_match,1,True,False,False,False,False,Validated one-to-one correspondence with GT29; included in detection and TH/DBH accuracy.
+Challenging,Single sensor,cht_jednoskener_nogrid,31,30;0,30,validated_primary_match,validated_primary_match,1,True,False,False,False,False,Validated one-to-one correspondence with GT30; included in detection and TH/DBH accuracy.
+Challenging,Single sensor,cht_jednoskener_nogrid,32,26;0,26,validated_primary_match,validated_primary_match,1,True,False,False,False,False,Validated one-to-one correspondence with GT26; included in detection and TH/DBH accuracy.
+Challenging,Single sensor,cht_jednoskener_nogrid,33,,,rejected_non_tree_segment,invalid_non_tree_segment,0,False,False,False,False,True,Standalone RCT candidate listed as a non-matching/ignore segment and not associated with a coherent physical tree during QC.
+Challenging,Single sensor,cht_jednoskener_nogrid,34,,,genuine_unrecorded_tree,genuine_unrecorded_tree,0,False,True,False,False,False,Small standing tree absent from GT; confirmed across all three scanners. Retained as a genuine additional tree but excluded from GT-based accuracy.
+Challenging,Single sensor,cht_jednoskener_nogrid,35,,,genuine_unrecorded_tree,genuine_unrecorded_tree,0,False,True,False,False,False,Genuine unrecorded standing tree A; separate individual segment in this scanner.
+Challenging,Single sensor,cht_jednoskener_nogrid,36,,,genuine_unrecorded_tree,genuine_unrecorded_tree,0,False,True,False,False,False,Genuine unrecorded standing tree B; separate individual segment in this scanner.
+Challenging,Single sensor,cht_jednoskener_nogrid,37,,,rejected_non_tree_segment,invalid_non_tree_segment,0,False,False,False,False,True,Did not correspond to a recognisable physical tree or coherent stem in the raw point cloud; rejected during visual QC.
+Challenging,Single sensor,cht_jednoskener_nogrid,38,,,rejected_non_tree_segment,invalid_non_tree_segment,0,False,False,False,False,True,Standalone RCT candidate listed as a non-matching/ignore segment and not associated with a coherent physical tree during QC.
+Challenging,Single sensor,cht_jednoskener_nogrid,39,,,rejected_non_tree_segment,invalid_non_tree_segment,0,False,False,False,False,True,Did not correspond to a recognisable physical tree or coherent stem in the raw point cloud; rejected during visual QC.
+Challenging,Single sensor,cht_jednoskener_nogrid,40,,,rejected_non_tree_segment,invalid_non_tree_segment,0,False,False,False,False,True,Standalone RCT candidate listed as a non-matching/ignore segment and not associated with a coherent physical tree during QC.
+Challenging,Single sensor,cht_jednoskener_nogrid,41,5;0,5,validated_primary_match,validated_primary_match,1,True,False,False,False,False,Validated one-to-one correspondence with GT5; included in detection and TH/DBH accuracy.
+Challenging,Single sensor,cht_jednoskener_nogrid,42,,,rejected_non_tree_segment,invalid_non_tree_segment,0,False,False,False,False,True,Standalone RCT candidate listed as a non-matching/ignore segment and not associated with a coherent physical tree during QC.
+Challenging,Dual sensor,cht_dvojskener_nogrid,0,8,8,cleaned_retained_tree,validated_primary_match,1,True,False,False,False,False,Manual cleaning completed and cleaned cloud successfully reconstructed as one tree.
+Challenging,Dual sensor,cht_dvojskener_nogrid,1,9,9,validated_untouched_tree,validated_primary_match,1,True,False,False,False,False,Validated one-to-one correspondence with GT9.
+Challenging,Dual sensor,cht_dvojskener_nogrid,2,,,random_or_unresolved_fragment,invalid_fragment,0,False,False,False,False,True,Manual CloudCompare QC: not a valid independent tree.
+Challenging,Dual sensor,cht_dvojskener_nogrid,3,,33;34,ambiguous_undersegmented,undersegmented_GT_trees,0,False,False,False,True,False,D3 represents the interlocked GT33/GT34 location. Two physical trees are under-segmented into one unreliable individual-tree instance; excluded from one-to-one TH/DBH accuracy.
+Challenging,Dual sensor,cht_dvojskener_nogrid,4,,,genuine_unrecorded_tree,genuine_unrecorded_tree,0,False,True,False,False,False,"Genuine physical tree confirmed by manual CloudCompare QC, but no corresponding GT record."
+Challenging,Dual sensor,cht_dvojskener_nogrid,5,14,14,cleaned_reprocessing_exception,validated_primary_match,1,True,False,False,False,False,"Manual cleaning completed but rayextract returned 0 trees. Cleaned-cloud vertical extent remained close to original RCT height, so original TH/DBH will be retained if this tree has a valid one-to-one GT correspondence."
+Challenging,Dual sensor,cht_dvojskener_nogrid,6,,32;7,ambiguous_undersegmented,undersegmented_GT_trees,0,False,False,False,True,False,D6 represents the interlocked GT32/GT7 location. Cannot obtain a defensible one-to-one individual-tree measurement; excluded from TH/DBH accuracy.
+Challenging,Dual sensor,cht_dvojskener_nogrid,7,6,6,cleaned_retained_tree,validated_primary_match,1,True,False,False,False,False,Manual cleaning completed and cleaned cloud successfully reconstructed as one tree.
+Challenging,Dual sensor,cht_dvojskener_nogrid,8,,,genuine_unrecorded_tree,genuine_unrecorded_tree,0,False,True,False,False,False,"Genuine physical tree confirmed by manual CloudCompare QC, but no corresponding GT record."
+Challenging,Dual sensor,cht_dvojskener_nogrid,9,,,genuine_unrecorded_tree,genuine_unrecorded_tree,0,False,True,False,False,False,"Genuine physical tree confirmed by manual CloudCompare QC, but no corresponding GT record."
+Challenging,Dual sensor,cht_dvojskener_nogrid,10,,,genuine_unrecorded_tree,genuine_unrecorded_tree,0,False,True,False,False,False,"Genuine physical tree confirmed by manual CloudCompare QC, but no corresponding GT record."
+Challenging,Dual sensor,cht_dvojskener_nogrid,11,,,genuine_unrecorded_tree,genuine_unrecorded_tree,0,False,True,False,False,False,"Genuine physical tree confirmed by manual CloudCompare QC, but no corresponding GT record."
+Challenging,Dual sensor,cht_dvojskener_nogrid,12,,,genuine_unrecorded_tree,genuine_unrecorded_tree,0,False,True,False,False,False,"Genuine physical tree confirmed by manual CloudCompare QC, but no corresponding GT record."
+Challenging,Dual sensor,cht_dvojskener_nogrid,13,,35;36,mixed_undersegmented,undersegmented_GT_trees,0,False,False,False,True,False,"D13 represents the GT35/GT36 interlocked location. Manual correction was performed, but the two physical GT trees cannot be reliably separated for one-to-one TH/DBH accuracy."
+Challenging,Dual sensor,cht_dvojskener_nogrid,14,,,genuine_unrecorded_tree,genuine_unrecorded_tree,0,False,True,False,False,False,"Genuine unrecorded tree. Manual cleaning completed, but RayCloudTools re-split the cleaned cloud into 4 components. No one-to-one GT attribute comparison required because GT = NA."
+Challenging,Dual sensor,cht_dvojskener_nogrid,15,16,16,validated_untouched_tree,validated_primary_match,1,True,False,False,False,False,Validated one-to-one correspondence with GT16.
+Challenging,Dual sensor,cht_dvojskener_nogrid,16,18,18,cleaned_retained_tree,validated_primary_match,1,True,False,False,False,False,Manual cleaning completed and cleaned cloud successfully reconstructed as one tree.
+Challenging,Dual sensor,cht_dvojskener_nogrid,17,3,3,cleaned_retained_tree,validated_primary_match,1,True,False,False,False,False,Manual cleaning completed and cleaned cloud successfully reconstructed as one tree.
+Challenging,Dual sensor,cht_dvojskener_nogrid,18,,,random_or_unresolved_fragment,invalid_fragment,0,False,False,False,False,True,Manual cross-scanner QC confirmed this is a non-independent segment/fragment.
+Challenging,Dual sensor,cht_dvojskener_nogrid,19,2,2,cleaned_retained_tree,validated_primary_match,1,True,False,False,False,False,Manual cleaning completed and cleaned cloud successfully reconstructed as one tree.
+Challenging,Dual sensor,cht_dvojskener_nogrid,20,,,genuine_unrecorded_tree,genuine_unrecorded_tree,0,False,True,False,False,False,"Genuine physical tree confirmed by manual CloudCompare QC, but no corresponding GT record."
+Challenging,Dual sensor,cht_dvojskener_nogrid,21,19,19,validated_untouched_tree,validated_primary_match,1,True,False,False,False,False,Validated one-to-one correspondence with GT19.
+Challenging,Dual sensor,cht_dvojskener_nogrid,22,,23;24,mixed_undersegmented,undersegmented_GT_trees,0,False,False,False,True,False,One RCT instance represents the very close GT23 and GT24 trees. The two physical GT trees cannot be reliably separated for a one-to-one TH/DBH comparison; excluded from attribute accuracy.
+Challenging,Dual sensor,cht_dvojskener_nogrid,23,37,37,validated_primary_match,validated_primary_match,1,True,False,False,False,False,Validated one-to-one correspondence with GT37 by manual CloudCompare QC. Tree manually cleaned before attribute extraction; included in detection and TH/DBH accuracy.
+Challenging,Dual sensor,cht_dvojskener_nogrid,24,1,1,cleaned_retained_tree,validated_primary_match,1,True,False,False,False,False,Manual cleaning completed and cleaned cloud successfully reconstructed as one tree.
+Challenging,Dual sensor,cht_dvojskener_nogrid,25,28,28,cleaned_retained_tree,validated_primary_match,1,True,False,False,False,False,Manual cleaning completed and cleaned cloud successfully reconstructed as one tree.
+Challenging,Dual sensor,cht_dvojskener_nogrid,26,25,25,cleaned_retained_tree,validated_primary_match,1,True,False,False,False,False,Manual cleaning completed and cleaned cloud successfully reconstructed as one tree.
+Challenging,Dual sensor,cht_dvojskener_nogrid,27,20,20,validated_untouched_tree,validated_primary_match,1,True,False,False,False,False,Validated one-to-one correspondence with GT20.
+Challenging,Dual sensor,cht_dvojskener_nogrid,28,29,29,cleaned_retained_tree,validated_primary_match,1,True,False,False,False,False,Manual cleaning completed and cleaned cloud successfully reconstructed as one tree.
+Challenging,Dual sensor,cht_dvojskener_nogrid,29,30,30,cleaned_retained_tree,validated_primary_match,1,True,False,False,False,False,Manual cleaning completed and cleaned cloud successfully reconstructed as one tree.
+Challenging,Dual sensor,cht_dvojskener_nogrid,30,26,26,cleaned_retained_tree,validated_primary_match,1,True,False,False,False,False,Manual cleaning completed and cleaned cloud successfully reconstructed as one tree.
+Challenging,Dual sensor,cht_dvojskener_nogrid,31,13,13,validated_untouched_tree,validated_primary_match,1,True,False,False,False,False,Validated one-to-one correspondence with GT13.
+Challenging,Dual sensor,cht_dvojskener_nogrid,32,,,random_or_unresolved_fragment,invalid_fragment,0,False,False,False,False,True,Manual CloudCompare QC: not a valid independent tree.
+Challenging,Dual sensor,cht_dvojskener_nogrid,33,,,genuine_unrecorded_tree,genuine_unrecorded_tree,0,False,True,False,False,False,"Genuine physical tree confirmed by manual CloudCompare QC, but no corresponding GT record."
+Challenging,Dual sensor,cht_dvojskener_nogrid,34,,,genuine_unrecorded_tree,genuine_unrecorded_tree,0,False,True,False,False,False,"Genuine physical tree confirmed by manual CloudCompare QC, but no corresponding GT record."
+Challenging,Dual sensor,cht_dvojskener_nogrid,35,,,genuine_unrecorded_tree,genuine_unrecorded_tree,0,False,True,False,False,False,"Genuine physical tree confirmed by manual CloudCompare QC, but no corresponding GT record."
+Challenging,Dual sensor,cht_dvojskener_nogrid,36,,,random_or_unresolved_fragment,invalid_fragment,0,False,False,False,False,True,Manual cross-scanner QC confirmed this is a non-independent segment/fragment.
+Challenging,Dual sensor,cht_dvojskener_nogrid,37,,,random_or_unresolved_fragment,invalid_fragment,0,False,False,False,False,True,Manual cross-scanner QC confirmed this is a non-independent segment/fragment.
+Challenging,Dual sensor,cht_dvojskener_nogrid,38,5,5,validated_untouched_tree,validated_primary_match,1,True,False,False,False,False,Validated one-to-one correspondence with GT5.
+Challenging,Hovermap,cht_hovermap_nogrid,0,8,8,cleaned_retained_tree,validated_primary_match,1,True,False,False,False,False,Manual cleaning completed; use recalculated attributes
+Challenging,Hovermap,cht_hovermap_nogrid,1,9,9,validated_untouched_tree,validated_primary_match,1,True,False,False,False,False,Manual/validated one-to-one correspondence with GT9; tree did not require manual correction.
+Challenging,Hovermap,cht_hovermap_nogrid,2,,33;34,ambiguous_undersegmented,undersegmented_GT_trees,0,False,False,False,True,False,Manual CloudCompare QC: neighbouring trees are strongly interlocked. Cannot reliably determine whether T2 corresponds to GT33 or GT34. Exclude from one-to-one TH/DBH accuracy. No individual GT detection credit assigned from this candidate.
+Challenging,Hovermap,cht_hovermap_nogrid,3,13,13,cleaned_reprocessing_exception,validated_primary_match,1,True,False,False,False,False,Manual cleaning completed but rayextract returned 0 trees; retain original TH/DBH
+Challenging,Hovermap,cht_hovermap_nogrid,4,,32;7,ambiguous_undersegmented,undersegmented_GT_trees,0,False,False,False,True,False,Manual CloudCompare QC: poor segmentation of two very close/interlocked trees prevents reliable assignment of T4 to GT32 or GT7. Exclude from one-to-one TH/DBH accuracy. No individual GT detection credit assigned from this candidate.
+Challenging,Hovermap,cht_hovermap_nogrid,5,14,14,cleaned_retained_tree,validated_primary_match,1,True,False,False,False,False,Manual cleaning completed; use recalculated attributes
+Challenging,Hovermap,cht_hovermap_nogrid,6,,,genuine_unrecorded_tree,genuine_unrecorded_tree,0,False,True,False,False,False,Genuine physical tree but no corresponding GT record
+Challenging,Hovermap,cht_hovermap_nogrid,7,,,genuine_unrecorded_tree,genuine_unrecorded_tree,0,False,True,False,False,False,Genuine physical tree but no corresponding GT record
+Challenging,Hovermap,cht_hovermap_nogrid,8,,,genuine_unrecorded_tree,genuine_unrecorded_tree,0,False,True,False,False,False,Genuine physical tree but no corresponding GT record
+Challenging,Hovermap,cht_hovermap_nogrid,9,,,genuine_unrecorded_tree,genuine_unrecorded_tree,0,False,True,False,False,False,Genuine physical tree but no corresponding GT record
+Challenging,Hovermap,cht_hovermap_nogrid,10,6,6,validated_primary_match,validated_primary_match,1,True,False,False,False,False,Not a valid independent tree after manual QC
+Challenging,Hovermap,cht_hovermap_nogrid,11,,,genuine_unrecorded_tree,genuine_unrecorded_tree,0,False,True,False,False,False,Genuine physical tree but no corresponding GT record
+Challenging,Hovermap,cht_hovermap_nogrid,12,,35;36,mixed_undersegmented,undersegmented_GT_trees,0,False,False,False,True,False,"One RCT instance contains two physical GT trees; GT35 and GT36 both represented, but no valid one-to-one TH/DBH comparison"
+Challenging,Hovermap,cht_hovermap_nogrid,13,,,genuine_unrecorded_tree,genuine_unrecorded_tree,0,False,True,False,False,False,Genuine unrecorded tree; T37-T40 absorbed into T13; use main cleaned reconstruction
+Challenging,Hovermap,cht_hovermap_nogrid,14,16,16,validated_untouched_tree,validated_primary_match,1,True,False,False,False,False,Manual/validated one-to-one correspondence with GT16; tree did not require manual correction.
+Challenging,Hovermap,cht_hovermap_nogrid,15,18,18,cleaned_retained_tree,validated_primary_match,1,True,False,False,False,False,Manual cleaning completed; use recalculated attributes
+Challenging,Hovermap,cht_hovermap_nogrid,16,3,3,validated_untouched_tree,validated_primary_match,1,True,False,False,False,False,Manual/validated one-to-one correspondence with GT3; tree did not require manual correction.
+Challenging,Hovermap,cht_hovermap_nogrid,17,2,2,cleaned_reprocessing_exception,validated_primary_match,1,True,False,False,False,False,Manual cleaning completed but rayextract returned 0 trees; retain original TH/DBH
+Challenging,Hovermap,cht_hovermap_nogrid,18,,,genuine_unrecorded_tree,genuine_unrecorded_tree,0,False,True,False,False,False,Genuine physical tree but no corresponding GT record
+Challenging,Hovermap,cht_hovermap_nogrid,19,,,random_or_unresolved_fragment,invalid_fragment,0,False,False,False,False,True,Not a valid independent tree after manual QC
+Challenging,Hovermap,cht_hovermap_nogrid,20,19,19,validated_untouched_tree,validated_primary_match,1,True,False,False,False,False,Manual/validated one-to-one correspondence with GT19; tree did not require manual correction.
+Challenging,Hovermap,cht_hovermap_nogrid,21,,23;24,mixed_undersegmented,undersegmented_GT_trees,0,False,False,False,True,False,One RCT instance represents the very close GT23 and GT24 trees. The two physical GT trees cannot be reliably separated for a one-to-one TH/DBH comparison; excluded from attribute accuracy.
+Challenging,Hovermap,cht_hovermap_nogrid,22,37,37,validated_primary_match,validated_primary_match,1,True,False,False,False,False,Validated one-to-one correspondence with GT37 by manual CloudCompare QC. Tree manually cleaned before attribute extraction; included in detection and TH/DBH accuracy.
+Challenging,Hovermap,cht_hovermap_nogrid,23,1,1,validated_untouched_tree,validated_primary_match,1,True,False,False,False,False,Manual/validated one-to-one correspondence with GT1; tree did not require manual correction.
+Challenging,Hovermap,cht_hovermap_nogrid,24,28,28,validated_untouched_tree,validated_primary_match,1,True,False,False,False,False,Manual/validated one-to-one correspondence with GT28; tree did not require manual correction.
+Challenging,Hovermap,cht_hovermap_nogrid,25,25,25,cleaned_retained_tree,validated_primary_match,1,True,False,False,False,False,Manual cleaning completed; use recalculated attributes
+Challenging,Hovermap,cht_hovermap_nogrid,26,20,20,validated_untouched_tree,validated_primary_match,1,True,False,False,False,False,Manual CloudCompare QC identified T26 as GT20. Retain original RCT attributes.
+Challenging,Hovermap,cht_hovermap_nogrid,27,29,29,cleaned_retained_tree,validated_primary_match,1,True,False,False,False,False,Manual cleaning completed; use recalculated attributes
+Challenging,Hovermap,cht_hovermap_nogrid,28,30,30,cleaned_retained_tree,validated_primary_match,1,True,False,False,False,False,Manual cleaning completed; use recalculated attributes
+Challenging,Hovermap,cht_hovermap_nogrid,29,26,26,cleaned_retained_tree,validated_primary_match,1,True,False,False,False,False,Manual cleaning completed; use recalculated attributes
+Challenging,Hovermap,cht_hovermap_nogrid,30,,,random_or_unresolved_fragment,invalid_fragment,0,False,False,False,False,True,Not a valid independent tree after manual QC
+Challenging,Hovermap,cht_hovermap_nogrid,31,,,genuine_unrecorded_tree,genuine_unrecorded_tree,0,False,True,False,False,False,Genuine physical tree but no corresponding GT record
+Challenging,Hovermap,cht_hovermap_nogrid,32,,,genuine_unrecorded_tree,genuine_unrecorded_tree,0,False,True,False,False,False,Manual CloudCompare QC confirmed H32 is a genuine small tree with its own stem but no corresponding GT record.
+Challenging,Hovermap,cht_hovermap_nogrid,33,,,random_or_unresolved_fragment,invalid_fragment,0,False,False,False,False,True,Not a valid independent tree after manual QC
+Challenging,Hovermap,cht_hovermap_nogrid,34,,,genuine_unrecorded_tree,genuine_unrecorded_tree,0,False,True,False,False,False,Genuine physical tree but no corresponding GT record
+Challenging,Hovermap,cht_hovermap_nogrid,35,,,genuine_unrecorded_tree,genuine_unrecorded_tree,0,False,True,False,False,False,Genuine physical tree but no corresponding GT record
+Challenging,Hovermap,cht_hovermap_nogrid,36,,,genuine_unrecorded_tree,genuine_unrecorded_tree,0,False,True,False,False,False,Genuine physical tree but no corresponding GT record
+Challenging,Hovermap,cht_hovermap_nogrid,37,,,absorbed_fragment,invalid_fragment,0,False,False,False,False,True,Merged into final T13
+Challenging,Hovermap,cht_hovermap_nogrid,38,,,absorbed_fragment,invalid_fragment,0,False,False,False,False,True,Merged into final T13
+Challenging,Hovermap,cht_hovermap_nogrid,39,,,absorbed_fragment,invalid_fragment,0,False,False,False,False,True,Merged into final T13
+Challenging,Hovermap,cht_hovermap_nogrid,40,,,absorbed_fragment,invalid_fragment,0,False,False,False,False,True,Merged into final T13
+Challenging,Hovermap,cht_hovermap_nogrid,41,5,5,ambiguous_close_neighbours,validated_primary_match,1,True,False,False,False,False,Manual CloudCompare QC: T41 is a small tree located very close to a larger neighbouring tree. Correspondence cannot be confidently resolved between GT2 and GT5. Excluded from one-to-one TH/DBH accuracy.
+Challenging,Hovermap,cht_hovermap_nogrid,42,,,random_or_unresolved_fragment,invalid_fragment,0,False,False,False,False,True,Not a valid independent tree after manual QC
+Challenging,Hovermap,cht_hovermap_nogrid,43,,23,segmentation_unreliable,invalid_fragment,0,False,False,False,False,True,"T43 is interpreted as GT23, adjacent to T21/GT24. The close neighbouring trees caused poor segmentation, so individual-tree TH/DBH cannot be estimated reliably. Count GT23 as represented/detected, but exclude T43 from attribute accuracy."
+Challenging,Hovermap,cht_hovermap_nogrid,44,,,random_or_unresolved_fragment,invalid_fragment,0,False,False,False,False,True,Not a valid independent tree after manual QC
+Challenging,Hovermap,cht_hovermap_nogrid,45,,,random_or_unresolved_fragment,invalid_fragment,0,False,False,False,False,True,Not a valid independent tree after manual QC

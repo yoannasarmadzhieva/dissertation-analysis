@@ -1,0 +1,40 @@
+scanner,segment_id,GT_ID,final_status,attribute_source,include_TH_DBH,include_detection,final_tree_id,notes
+Dvojskenner,0,GT8,cleaned_retained_tree,cleaned,True,True,0,Manual cleaning completed and cleaned cloud successfully reconstructed as one tree.
+Dvojskenner,1,GT9,validated_untouched_tree,original,True,True,1,Validated one-to-one correspondence with GT9.
+Dvojskenner,2,,random_or_unresolved_fragment,none,False,False,,Manual CloudCompare QC: not a valid independent tree.
+Dvojskenner,3,GT33/GT34,ambiguous_undersegmented,cleaned,False,False,3,D3 represents the interlocked GT33/GT34 location. Two physical trees are under-segmented into one unreliable individual-tree instance; excluded from one-to-one TH/DBH accuracy.
+Dvojskenner,4,NA,genuine_unrecorded_tree,original,False,True,4,"Genuine physical tree confirmed by manual CloudCompare QC, but no corresponding GT record."
+Dvojskenner,5,GT14,cleaned_reprocessing_exception,original_TH_DBH,True,True,5,"Manual cleaning completed but rayextract returned 0 trees. Cleaned-cloud vertical extent remained close to original RCT height, so original TH/DBH will be retained if this tree has a valid one-to-one GT correspondence."
+Dvojskenner,6,GT32/GT7,ambiguous_undersegmented,original,False,False,6,D6 represents the interlocked GT32/GT7 location. Cannot obtain a defensible one-to-one individual-tree measurement; excluded from TH/DBH accuracy.
+Dvojskenner,7,GT6,cleaned_retained_tree,cleaned,True,True,7,Manual cleaning completed and cleaned cloud successfully reconstructed as one tree.
+Dvojskenner,8,NA,genuine_unrecorded_tree,original,False,True,8,"Genuine physical tree confirmed by manual CloudCompare QC, but no corresponding GT record."
+Dvojskenner,9,NA,genuine_unrecorded_tree,original,False,True,9,"Genuine physical tree confirmed by manual CloudCompare QC, but no corresponding GT record."
+Dvojskenner,10,NA,genuine_unrecorded_tree,original,False,True,10,"Genuine physical tree confirmed by manual CloudCompare QC, but no corresponding GT record."
+Dvojskenner,11,NA,genuine_unrecorded_tree,original,False,True,11,"Genuine physical tree confirmed by manual CloudCompare QC, but no corresponding GT record."
+Dvojskenner,12,NA,genuine_unrecorded_tree,original,False,True,12,"Genuine physical tree confirmed by manual CloudCompare QC, but no corresponding GT record."
+Dvojskenner,13,GT35/GT36,mixed_undersegmented,cleaned,False,True,13,"D13 represents the GT35/GT36 interlocked location. Manual correction was performed, but the two physical GT trees cannot be reliably separated for one-to-one TH/DBH accuracy."
+Dvojskenner,14,NA,genuine_unrecorded_tree,cleaned_visual_only,False,True,14,"Genuine unrecorded tree. Manual cleaning completed, but RayCloudTools re-split the cleaned cloud into 4 components. No one-to-one GT attribute comparison required because GT = NA."
+Dvojskenner,15,GT16,validated_untouched_tree,original,True,True,15,Validated one-to-one correspondence with GT16.
+Dvojskenner,16,GT18,cleaned_retained_tree,cleaned,True,True,16,Manual cleaning completed and cleaned cloud successfully reconstructed as one tree.
+Dvojskenner,17,GT3,cleaned_retained_tree,cleaned,True,True,17,Manual cleaning completed and cleaned cloud successfully reconstructed as one tree.
+Dvojskenner,18,,random_or_unresolved_fragment,none,False,False,,Manual cross-scanner QC confirmed this is a non-independent segment/fragment.
+Dvojskenner,19,GT2,cleaned_retained_tree,cleaned,True,True,19,Manual cleaning completed and cleaned cloud successfully reconstructed as one tree.
+Dvojskenner,20,NA,genuine_unrecorded_tree,original,False,True,20,"Genuine physical tree confirmed by manual CloudCompare QC, but no corresponding GT record."
+Dvojskenner,21,GT19,validated_untouched_tree,original,True,True,21,Validated one-to-one correspondence with GT19.
+Dvojskenner,22,GT23/GT24,mixed_undersegmented,original,False,True,22,One RCT instance represents the very close GT23 and GT24 trees. The two physical GT trees cannot be reliably separated for a one-to-one TH/DBH comparison; excluded from attribute accuracy.
+Dvojskenner,23,GT37,validated_primary_match,cleaned,True,True,23,Validated one-to-one correspondence with GT37 by manual CloudCompare QC. Tree manually cleaned before attribute extraction; included in detection and TH/DBH accuracy.
+Dvojskenner,24,GT1,cleaned_retained_tree,cleaned,True,True,24,Manual cleaning completed and cleaned cloud successfully reconstructed as one tree.
+Dvojskenner,25,GT28,cleaned_retained_tree,cleaned,True,True,25,Manual cleaning completed and cleaned cloud successfully reconstructed as one tree.
+Dvojskenner,26,GT25,cleaned_retained_tree,cleaned,True,True,26,Manual cleaning completed and cleaned cloud successfully reconstructed as one tree.
+Dvojskenner,27,GT20,validated_untouched_tree,original,True,True,27,Validated one-to-one correspondence with GT20.
+Dvojskenner,28,GT29,cleaned_retained_tree,cleaned,True,True,28,Manual cleaning completed and cleaned cloud successfully reconstructed as one tree.
+Dvojskenner,29,GT30,cleaned_retained_tree,cleaned,True,True,29,Manual cleaning completed and cleaned cloud successfully reconstructed as one tree.
+Dvojskenner,30,GT26,cleaned_retained_tree,cleaned,True,True,30,Manual cleaning completed and cleaned cloud successfully reconstructed as one tree.
+Dvojskenner,31,GT13,validated_untouched_tree,original,True,True,31,Validated one-to-one correspondence with GT13.
+Dvojskenner,32,,random_or_unresolved_fragment,none,False,False,,Manual CloudCompare QC: not a valid independent tree.
+Dvojskenner,33,NA,genuine_unrecorded_tree,original,False,True,33,"Genuine physical tree confirmed by manual CloudCompare QC, but no corresponding GT record."
+Dvojskenner,34,NA,genuine_unrecorded_tree,original,False,True,34,"Genuine physical tree confirmed by manual CloudCompare QC, but no corresponding GT record."
+Dvojskenner,35,NA,genuine_unrecorded_tree,original,False,True,35,"Genuine physical tree confirmed by manual CloudCompare QC, but no corresponding GT record."
+Dvojskenner,36,,random_or_unresolved_fragment,none,False,False,,Manual cross-scanner QC confirmed this is a non-independent segment/fragment.
+Dvojskenner,37,,random_or_unresolved_fragment,none,False,False,,Manual cross-scanner QC confirmed this is a non-independent segment/fragment.
+Dvojskenner,38,GT5,validated_untouched_tree,original,True,True,38,Validated one-to-one correspondence with GT5.
